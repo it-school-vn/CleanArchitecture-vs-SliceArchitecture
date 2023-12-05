@@ -1,1 +1,1 @@
-# This repo is used for a presentaion about software architecture
+# This repo is used for a presentation about software architecture
