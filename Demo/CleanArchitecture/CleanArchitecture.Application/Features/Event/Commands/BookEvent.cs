@@ -7,7 +7,7 @@ using CleanArchitecture.Application.Core.Abstraction.Services;
 using CleanArchitecture.Application.Core.CustomExceptions;
 using CleanArchitecture.Application.Core.Models;
 using CleanArchitecture.Domain.Models.Event;
-using Domain.Models.Event.DomainEvents;
+using CleanArchitecture.Domain.Models.Event.DTO.DomainEvents;
 
 namespace CleanArchitecture.Application.Features.Event.Commands;
 public static class BookEvent
